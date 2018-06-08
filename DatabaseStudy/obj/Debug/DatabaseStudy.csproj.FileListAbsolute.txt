@@ -1,0 +1,39 @@
+c:\users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe.config
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.pdb
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\bin\Debug\MySql.Data.dll
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csprojResolveAssemblyReference.cache
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Properties.Resources.resources
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csproj.GenerateResource.Cache
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.exe
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.pdb
+C:\Users\cosmoslab\documents\visual studio 2013\Projects\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Form1.resources
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe.config
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.exe
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.pdb
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.pdb
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csprojResolveAssemblyReference.cache
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Form1.resources
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Properties.Resources.resources
+C:\Users\cosmoslab\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe.config
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.exe
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.pdb
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Form1.resources
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Properties.Resources.resources
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.pdb
+C:\Users\Lee\Desktop\이영준\프로젝트\DatabaseStudy\DatabaseStudy\bin\Debug\MySql.Data.dll
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe.config
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.exe
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.pdb
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.exe
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\bin\Debug\DatabaseStudy.pdb
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csprojResolveAssemblyReference.cache
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Form1.resources
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.Properties.Resources.resources
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\obj\Debug\DatabaseStudy.csproj.GenerateResource.Cache
+D:\이영준\C#\DatabaseStudy\DatabaseStudy\bin\Debug\MySql.Data.dll
