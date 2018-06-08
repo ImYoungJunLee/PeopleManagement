@@ -278,7 +278,7 @@ namespace DatabaseStudy
 
         }
 
-
+/*
        public void SendAllMail()
        {
            if (MessageBox.Show("이메일을 발송하시겠습니까?", "알림", MessageBoxButtons.YesNo, MessageBoxIcon.Question)
@@ -320,7 +320,7 @@ namespace DatabaseStudy
                    }
                }
           }
-       }
+       }*/
 
        public void send_to_Email(int row)//선택한 행의 내용을 이메일의 텍스트박스에 넣기
        {
